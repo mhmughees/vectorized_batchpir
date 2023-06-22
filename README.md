@@ -30,8 +30,8 @@ This will run the Vectorized Batch PIR for the three input scenarios mentioned b
 | Batch Size | Database Size | Entry Size |
 |------------|---------------|------------|
 | 32         | 1048576       | 32         |
-| 64         | 10485         | 256        |
-| 256        | 10485         | 256        |
+| 64         | 1048576       | 32         |
+| 256        | 1048576       | 32         |
 
 ## Expected Output
 
