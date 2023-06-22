@@ -43,6 +43,12 @@ Upon processing the inputs, the terminal should display a similar output:
 
 The performance of the protocol heavily relies on the selection of fully homomorphic encryption (FHE) parameters. We have provided the best-performing parameters for the given example inputs. However, we encourage developers to select the parameters that yield the best performance for their specific applications. Please refer to [this section](https://github.com/mhmughees/vectorized_batchpir/blob/370780f0bd58a99f18dda60e6fb2cde5c2e815f4/src/utils.h#L108) for parameter selection details.
 
+## Contributors
+ - [Muhammad Haris Mughees(Lead)](https://mhmughees.github.io)
+ - [Ling Ren](https://sites.google.com/view/renling)
+
+*Acknowledgment: Sun I (is16@illinois.edu) for helping with testing the code*
+
 ## ⚠️ Important Warning
 
 This implementation is intended for research purposes only. The code has NOT been vetted by security experts. Therefore, no part of this code should be used in any real-world or production setting.
