@@ -37,7 +37,8 @@ This will run the Vectorized Batch PIR for the three input scenarios mentioned b
 
 Upon processing the inputs, the terminal should display a similar output:
 
-![Terminal Output](https://github.com/mhmughees/vectorized_batchpir/assets/6435443/0559e78e-84df-487c-9e78-d565893f722f)
+![Terminal Output](https://github.com/mhmughees/vectorized_batchpir/assets/6435443/5112f7e3-2087-4223-88f1-4abf2037357d)
+
 
 ## FHE Parameter Selection
 
